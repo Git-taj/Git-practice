@@ -1,7 +1,0 @@
-git config  --global user.name “prem”
-git config --global user.email “prem@ibm.com
-git status: is the command used to check whether files are in work space, staging , local repo.
-git log : is used to check the repo history.
-git log abc.sh : is used to check history of the file.
-git log -2 : is used to check last 2-commits
-git log -2 abc.sh : Last two commits of the files.
